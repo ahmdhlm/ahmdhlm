@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmdhlm
+- 👋 Hi, I’m @ahmed Helmy
 -    Study computer & systems engineering @AinSams University
 - 👀 I’m interested in software enfineering & Embedded Systems
 - 📫 How to reach me 
